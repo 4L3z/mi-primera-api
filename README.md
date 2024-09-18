@@ -65,21 +65,21 @@ Esta es mi primera API extremadamente simple creada con **Node.js** y **Express*
 - **Respuesta**:
 
   ```json
-  {
-     "title": 'Según Alejandro, Los 10 alumnos más activos en la clase son',
-      "alumnos": [
-        { id: 1, name: 'Alejandro Palacios' },
-        { id: 2, name: 'Tiziano Gomez' },
-        { id: 3, name: 'Mateo Faya' },
-        { id: 4, name: 'Nicolas Sandoval' },
-        { id: 5, name: 'Mauricio Sierra' },
-        { id: 6, name: 'Lucas Gutierrez' },
-        { id: 7, name: 'Laureano Nahuel Cabriza' },
-        { id: 8, name: 'Felipe Gervan' },
-        { id: 9, name: 'Natalie Schunke' },
-        { id: 10, name: 'Santiago Villafañez' },
+{
+      title: 'Según Alejandro, Los 10 alumnos más activos en la clase son',
+      alumnos: [
+        { "id": 1, "name": 'Alejandro Palacios' },
+        { "id": 2, "name": 'Tiziano Gomez' },
+        { "id": 3, "name": 'Mateo Faya' },
+        { "id": 4, "name": 'Nicolas Sandoval' },
+        { "id": 5, "name": 'Mauricio Sierra' },
+        { "id": 6, "name": 'Lucas Gutierrez' },
+        { "id": 7, "name": 'Laureano Nahuel Cabriza' },
+        { "id": 8, "name": 'Felipe Gervan' },
+        { "id": 9, "name": 'Natalie Schunke' },
+        { "id": 10, "name": 'Santiago Villafañez' },
       ]
-  }
+    };
   ```
 
 
