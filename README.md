@@ -67,7 +67,7 @@ Esta es mi primera API extremadamente simple creada con **Node.js** y **Express*
   ```json
   {
       "title": "Según Alejandro, Los 10 alumnos más activos en la clase son",
-      alumnos: [
+      "alumnos": [
         { "id": 1, "name": "Alejandro Palacios"},
         { "id": 2, "name": "Tiziano Gomez" },
         { "id": 3, "name": "Mateo Faya" },
