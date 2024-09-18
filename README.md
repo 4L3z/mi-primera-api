@@ -65,6 +65,7 @@ Esta es mi primera API extremadamente simple creada con **Node.js** y **Express*
 - **Respuesta**:
 
   ```json
+  {
      title: 'Según Alejandro, Los 10 alumnos más activos en la clase son',
       alumnos: [
         { id: 1, name: 'Alejandro Palacios' },
@@ -78,6 +79,7 @@ Esta es mi primera API extremadamente simple creada con **Node.js** y **Express*
         { id: 9, name: 'Natalie Schunke' },
         { id: 10, name: 'Santiago Villafañez' },
       ]
+  }
   ```
 
 
