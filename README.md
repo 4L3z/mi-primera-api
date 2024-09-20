@@ -30,7 +30,7 @@ Esta es mi primera API extremadamente simple creada con **Node.js** y **Express*
 # Endpoints
 
 ### GET `/`
-- **Descripción**: Devuelve un html que contiene un titulo en la ventana, un titulo H1 y dos botones para redirigirte a los otros endpoints
+- **Descripción**: Devuelve un html que contiene un titulo en la ventana, un titulo H1, dos botones para redirigirte a los otros endpoints, imagenes clickeables para rederigirte a las transformaciones de lucio chad y un titulo h2 al final
 - **Método HTTP**: `GET`
 - **Respuesta**:
  ```html
