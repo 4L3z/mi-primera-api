@@ -1,7 +1,7 @@
 
 # Mi primera API
 
-Esta es mi primera API extremadamente simple creada con **Node.js** y **Express**. Que muestra que es Generacion T Y Quienes fueron los alumnos mas activos en este 2024, según Alejandro Palacios
+Esta es mi primera API extremadamente simple creada con **Node.js** y **Express**. Que muestra que es Generacion T, Quienes fueron los alumnos mas activos en este 2024, según Alejandro Palacios Y contiene las transformaciones de lucio chad desde su forma base hasta su transformacion SSJ 10
 
 ## Instalación
 
